@@ -1,10 +1,6 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M19.9997 1.71875L36.1482 35.8849H3.85107L19.9997 1.71875Z" fill="#FECD2F"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M10.4602 31.7672H29.5398L20 11.5835L10.4602 31.7672ZM0 34.1661L16.1486 0H23.8514L40 34.1661L36.1486 40H3.85141L0 34.1661Z" fill="url(#paint0_linear_611_508)"/>
-<defs>
-<linearGradient id="paint0_linear_611_508" x1="20" y1="0" x2="20" y2="40" gradientUnits="userSpaceOnUse">
-<stop offset="0.677083" stop-color="#FD8325"/>
-<stop offset="1" stop-color="#FC6621"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="287" height="287" version="1.1">
+<circle cx="143.5" cy="143.5" r="128.5" stroke="#000" stroke-width="30"/>
+<circle cx="143.5" cy="143.5" r="128.5" fill="none" stroke="#fff" stroke-width="9"/>
+<path d="m201.5,41.6-36.9,13.95-21,121.7 36-12.7-14.4,81.3 37.9-14.1 21.1-121.8-36,12.7 13.4-81zm-80.4,0-36.9,13.95-21,121.7 36-12.7-14.4,81.3 37.9-14.1 21.1-121.8-36,12.7 13.4-81z" stroke="#000" stroke-width="4" fill="#fff"/>
 </svg>
